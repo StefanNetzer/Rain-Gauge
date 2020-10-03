@@ -5,8 +5,8 @@ With this project, I created a Rain Gauge, which I created from scretch.
 1. Case I used a standard (german) downpipe
 2. Mechanics printed in 3D
 3. Electronics
-    Wemos D1
-    HX711 weight sensor
+    Wemos D1,
+    HX711 weight sensor,
     Weigh Cell 100 g 0.1 accuracy 
 
 I used Arduino IDE for the prototype. The data is published using MQTT to my FHEM Home Automation Server. I added support for OTA.
